@@ -1,15 +1,15 @@
-# getheader
+# requestdetector
 Simple http/https detector(get response headers)
 
-[![NPM version](https://img.shields.io/npm/v/getheader.svg)](https://www.npmjs.com/package/getheader)
+[![NPM version](https://img.shields.io/npm/v/requestdetector.svg)](https://www.npmjs.com/package/requestdetector)
 [![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
-[![npm](https://img.shields.io/npm/dt/getheader.svg)](https://www.npmjs.com/package/getheader)
-[![node](https://img.shields.io/node/v/getheader.svg)](https://nodejs.org/en/download/)
+[![npm](https://img.shields.io/npm/dt/requestdetector.svg)](https://www.npmjs.com/package/requestdetector)
+[![node](https://img.shields.io/node/v/requestdetector.svg)](https://nodejs.org/en/download/)
 
 
 ```
-npm install getheader
-const detect = require('getheader');
+npm install requestdetector
+const detect = require('requestdetector');
 ```
 
 ### Example:1 (async/await)
